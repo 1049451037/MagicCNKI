@@ -1,0 +1,11 @@
+README.md
+setup.py
+MagicCNKI/__init__.py
+MagicCNKI/config.py
+MagicCNKI/magic_cnki.py
+MagicCNKI.egg-info/PKG-INFO
+MagicCNKI.egg-info/SOURCES.txt
+MagicCNKI.egg-info/dependency_links.txt
+MagicCNKI.egg-info/requires.txt
+MagicCNKI.egg-info/top_level.txt
+MagicCNKI/data/user_agents.txt
